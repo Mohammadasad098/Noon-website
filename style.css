@@ -1,0 +1,108 @@
+#body-1{
+    background-color: #f1f1f1;
+}
+.d-flex{
+    display: flex;
+}
+.j-c-spaceb{
+    justify-content: space-between;
+}
+.j-c-center{
+    justify-content: center;
+}
+.j-c-spacearound{
+    justify-content: space-around;
+}
+.a-i-center{
+    align-items: center;
+}
+.padding-right{
+    padding-right: 450px;
+}
+.padding-top{
+    padding-top: 5px;
+}
+.padding-bottom{
+    padding-bottom: 5px;
+}
+.margin-top{
+    margin-top: 10px;
+}
+.bg-yellow{
+    background-color: #ffff00;
+}
+.colour-blue{
+    color: #0000ff;
+}
+.border{
+    border-radius: 6px;
+}
+.height{
+    height: 100px;
+}
+.colour-red{
+    color: #ff0000;
+}
+.gap{
+    gap: 10px;
+}
+.gap-30{
+    gap: 30px;
+}
+.bor{
+    border: 1px solid #dfd2d2;
+    background-color: white;
+    padding: 7px;
+
+}
+.gap-20{
+    gap: 20px;
+}
+.colour-grey{
+    background-color: white;
+    padding: 20px;
+}
+.bg-pink{
+    background-color: #fcd0d7;
+    padding: 20px;
+}
+.button-1{
+    border: 2px solid black;
+    padding: 7px;
+    border-radius: 4px;
+}
+.bor-2{
+    border: transparent;
+    padding: 10px;
+    background-color: white;
+}
+.bor-3{
+    border: transparent;
+    padding: 10px;
+    background-color: #d7e5eb;
+}
+.text-c{
+    text-align: center;
+}
+.pad-10{
+    padding: 30px;
+}
+.height{
+    height: 100px;
+}
+.bg-white{
+    background-color: #ffffff;
+}
+.colour-blue{
+    color: #4b4be9;
+}
+.pad-t{
+    padding-top: 20px;
+}
+.font-s{
+    font-size: small;
+}
+.height-1{
+    height: 150px;
+}
+
