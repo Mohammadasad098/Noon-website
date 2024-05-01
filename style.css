@@ -126,8 +126,12 @@
     .wrap-m{
         flex-wrap: wrap;
     }
-   
-
+    .j-center{
+        justify-content: center;
+    }
+    .center{
+        text-align: center;
+    }
 
 }
 
